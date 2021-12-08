@@ -1,0 +1,76 @@
+.contact-header{
+  text-align: center;
+  font-size: 1.1vw;
+  text-decoration: underline;
+}
+
+.scrc-link{
+  text-align: center;
+  font-size: .9vw;
+}
+
+.rocky-mt-link{
+  text-align: center;
+  font-size: .9vw;
+}
+
+.so-calif-sr-link{
+  text-align: center;
+  font-size: .9vw;
+}
+
+.siamese-rescue-other-link{
+  text-align: center;
+  font-size: .9vw;
+}
+
+.contact-left-center{
+  background-image: url("images/siamese-cat-2.jpg");
+  background-size: cover;
+  border-style: solid;
+  border-color: cyan;
+  width: 20vw;
+  border-width: thin;
+}
+
+.contact-center-center{
+  width: 58vw;
+  text-align: center;
+  border-style: solid;
+  border-color: cyan;
+  border-width: thin;
+}
+
+.contact-right-center{
+  background-image: url("images/siamese-cat.jpg");
+  background-size: cover;
+  border-style: solid;
+  border-color: cyan;
+  width: 20vw;
+  border-width: thin;
+}
+
+.contact-center{
+  height: 30vw;
+}
+
+.flex{
+  display: flex;
+}
+
+.center{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.left{
+  float: left;
+}
+
+.right {
+  float: right;
+}
